@@ -1,4 +1,5 @@
 # Dodge the Creeps
+Disclaimer: Imma just revise back since i've been to web dev
 
 This is a simple game where your character must move
 and avoid the enemies for as long as possible.
